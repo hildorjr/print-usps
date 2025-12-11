@@ -10,4 +10,4 @@
 
 - Using EasyPost wallet USPS access; service auto-selects lowest USPS rate for the provided parcel.
 - Label is PNG 4x6; parcel units are ounces and inches.
-- Next steps: add selection of shipment types, add client-side validation, allow service selection and label size formats, surface surcharges/rate details, and persist shipment history with tracking updates.
+- Next steps: add form reset, add client-side validation, allow service selection and label size formats, surface surcharges/rate details, and persist shipment history with tracking updates.
